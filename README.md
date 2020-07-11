@@ -12,7 +12,7 @@ Majoring Applied Maths in Fundação Getulio Vargas RJ.
 :white_heart: Games | :purple_heart: Math | :blue_heart: Programming
 
 - :earth_americas: I'm from Rio de Janeiro - Brazil
-- :iphone:  Creator of [**Don't Drop**](cutt.ly/dontdrop)
+- :iphone:  Creator of [**Don't Drop**](https://cutt.ly/dontdrop)
 - :new_moon: Night owl
 
 
