@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://lh3.googleusercontent.com/ixj6Nu0TTPXyWyll3MGIm0-ADiAynNYZ5pJskwpFxzrSL_tbt82SJweBi93EBX2LcOw=s180-rw">
+<img align="right" width="256" height="256" src="https://lh3.googleusercontent.com/ixj6Nu0TTPXyWyll3MGIm0-ADiAynNYZ5pJskwpFxzrSL_tbt82SJweBi93EBX2LcOw=s180-rw">
 
 
 # Hi, I'm Matheus
