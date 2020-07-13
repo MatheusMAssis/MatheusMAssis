@@ -5,7 +5,7 @@
 
 Data Scientist :chart: | Game Developer :video_game: (in progress)
 
-Majoring Applied Maths in Fundação Getulio Vargas RJ.
+Majoring Applied Mathematics at Fundação Getulio Vargas RJ.
 
 ## About me 
 
