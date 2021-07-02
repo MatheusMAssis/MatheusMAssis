@@ -3,7 +3,7 @@
 
 # Hi, I'm Matheus
 
-Data Scientist :chart: | Game Developer :video_game: (in progress)
+Monetization Analyst :chart: | Game Developer :video_game: (in progress)
 
 Applied Mathematician graduated from Fundação Getulio Vargas RJ.
 
