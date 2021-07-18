@@ -3,7 +3,7 @@
 
 # Hi, I'm Matheus
 
-Monetization Analyst :chart: | Game Developer :video_game: (in progress)
+Monetization Analyst :chart: | Game Developer :video_game:
 
 Applied Mathematician graduated from Fundação Getulio Vargas RJ.
 
@@ -12,7 +12,7 @@ Applied Mathematician graduated from Fundação Getulio Vargas RJ.
 :white_heart: Games | :purple_heart: Math | :blue_heart: Programming
 
 - :earth_americas: I'm from Rio de Janeiro - Brazil
-- :iphone:  Creator of [**Don't Drop**](https://cutt.ly/dontdrop)
+- :iphone:  Creator of [**Don't Drop**](https://play.google.com/store/apps/details?id=com.BigThreeGames.DontDrop) and **BGS Home Jam 2020** Winner: [**Brain Guard**](https://bigthreegames.itch.io/brain-guard)
 - :new_moon: Night owl
 
 
