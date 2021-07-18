@@ -18,7 +18,7 @@ Applied Mathematician graduated from Fundação Getulio Vargas RJ.
 
 ## Social media :email:
 
-[![Twitter Badge](https://img.shields.io/badge/-matheus_assis22-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/matheus_assis22/)](https://www.twitter.com/matheus_assis22/)
-[![Linkedin Badge](https://img.shields.io/badge/-matheusmoncada-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmoncada/)](https://www.linkedin.com/in/matheusmoncada/)
-[![Instagram Badge](https://img.shields.io/badge/-matheusm.assis-C1558B?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/matheusm.assis)](https://instagram.com/matheusm.assis)
-[![Gmail Badge](https://img.shields.io/badge/-assis.matheus1@gmail.com-C14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:assis.matheus1@gmail.com)](mailto:assis.matheus1@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_|_matheus_assis22-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/matheus_assis22/)](https://www.twitter.com/matheus_assis22/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn_|_matheusmoncada-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmoncada/)](https://www.linkedin.com/in/matheusmoncada/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram_|_matheusm.assis-C1558B?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/matheusm.assis)](https://instagram.com/matheusm.assis)
+[![Gmail Badge](https://img.shields.io/badge/-Email_|_assis.matheus1@gmail.com-C14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:assis.matheus1@gmail.com)](mailto:assis.matheus1@gmail.com)
