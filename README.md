@@ -3,22 +3,21 @@
 
 # Hi, I'm Matheus
 
-Monetization Analyst :chart: | Game Developer :video_game:
+Monetization Experiments Analyst at Wildlife Studios
 
-Applied Mathematician graduated from Fundação Getulio Vargas RJ.
+Applied Mathematician graduated from Fundação Getulio Vargas RJ in 2020.
 
 ## About me 
 
-:white_heart: Games | :purple_heart: Math | :blue_heart: Programming
+- I'm from Rio de Janeiro - Brazil
+- Creator of [**Don't Drop**](https://play.google.com/store/apps/details?id=com.BigThreeGames.DontDrop) and **BGS Home Jam 2020** Winner: [**Brain Guard**](https://bigthreegames.itch.io/brain-guard)
+- Addicted to Programming
+- Math and Games are in my heart since forever
 
-- :earth_americas: I'm from Rio de Janeiro - Brazil
-- :iphone:  Creator of [**Don't Drop**](https://play.google.com/store/apps/details?id=com.BigThreeGames.DontDrop) and **BGS Home Jam 2020** Winner: [**Brain Guard**](https://bigthreegames.itch.io/brain-guard)
-- :new_moon: Night owl
 
+## Social media 
 
-## Social media :email:
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter_|_matheus_assis22-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/matheus_assis22/)](https://www.twitter.com/matheus_assis22/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn_|_matheusmoncada-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmoncada/)](https://www.linkedin.com/in/matheusmoncada/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram_|_matheusm.assis-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/matheusm.assis)](https://instagram.com/matheusm.assis)
-[![Gmail Badge](https://img.shields.io/badge/-Email_|_assis.matheus1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:assis.matheus1@gmail.com)](mailto:assis.matheus1@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_|_matheus_assis22-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/matheus_assis22/)](https://www.twitter.com/matheus_assis22/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn_|_matheusmoncada-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmoncada/)](https://www.linkedin.com/in/matheusmoncada/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram_|_matheusm.assis-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/matheusm.assis)](https://instagram.com/matheusm.assis)
+[![Gmail Badge](https://img.shields.io/badge/-Email_|_assis.matheus1@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:assis.matheus1@gmail.com)](mailto:assis.matheus1@gmail.com)
