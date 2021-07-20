@@ -15,7 +15,12 @@ Applied Mathematician graduated from Fundação Getulio Vargas RJ in 2020.
 - Math and Games are in my heart since forever
 
 
-## Social media 
+## Social media
+
+<a><img width="256" height="256" src="https://lh3.googleusercontent.com/ixj6Nu0TTPXyWyll3MGIm0-ADiAynNYZ5pJskwpFxzrSL_tbt82SJweBi93EBX2LcOw=s180-rw"></a>
+<a><img width="256" height="256" src="https://lh3.googleusercontent.com/ixj6Nu0TTPXyWyll3MGIm0-ADiAynNYZ5pJskwpFxzrSL_tbt82SJweBi93EBX2LcOw=s180-rw"></a>
+<a><img width="256" height="256" src="https://lh3.googleusercontent.com/ixj6Nu0TTPXyWyll3MGIm0-ADiAynNYZ5pJskwpFxzrSL_tbt82SJweBi93EBX2LcOw=s180-rw"></a>
+<a><img width="256" height="256" src="https://lh3.googleusercontent.com/ixj6Nu0TTPXyWyll3MGIm0-ADiAynNYZ5pJskwpFxzrSL_tbt82SJweBi93EBX2LcOw=s180-rw"></a>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter_|_matheus_assis22-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/matheus_assis22/)](https://www.twitter.com/matheus_assis22/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn_|_matheusmoncada-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmoncada/)](https://www.linkedin.com/in/matheusmoncada/)
